@@ -8,7 +8,7 @@ Let's go!
 Estrutura
 ----
 
-Teremos **2 níveis** em nossa app. Primeiramente uma pasta `application` que será nossa pasta onde ficará os conteúdos de nossa aplicação, e outra pasta chamada `public` que conterá nossos arquivos publicos.
+Teremos **2 níveis** em nossa app. Primeiramente uma pasta `application` que será nossa pasta onde ficará os conteúdos de nossa aplicação, e outra pasta chamada `public` que conterá nossos arquivos públicos.
 
 ```
 app/
